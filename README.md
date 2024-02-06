@@ -1,1 +1,1 @@
-# Conding-Ninjas-Problems
+# Coding-Ninjas-Problems
